@@ -1,0 +1,6 @@
+openapi: 3.0.0
+info:
+  title: Notes API
+  description: The Notes API is a life-management microservice for
+    managing notes and resources for better life management.
+  version: 1.0.0

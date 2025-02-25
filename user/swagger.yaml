@@ -1,0 +1,8 @@
+openapi: 3.0.0
+info:
+  title: User API
+  description: The User API is the life-management microservice
+    responsible for all user-related actions and data including
+    authentication, authorization, account management, profile
+    management, and preferences management.
+  version: 1.0.0

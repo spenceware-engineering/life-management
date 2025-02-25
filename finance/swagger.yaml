@@ -1,0 +1,6 @@
+openapi: 3.0.0
+info:
+  title: Finance API
+  description: The Finance API is a life-management microservice for
+    tracking and managing finances and financial data.
+  version: 1.0.0
