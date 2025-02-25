@@ -1,0 +1,7 @@
+openapi: 3.0.0
+info:
+  title: User API
+  description: The Records API is a life-management microservice
+    for keeping track of documents and data for the user's
+    personal records.
+  version: 1.0.0
